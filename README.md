@@ -19,7 +19,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube Buddy](https://github.com/rahulsharmadev-community/YouTube-Buddy)
-- <!-- BLOG-POST-LIST:END -->
+ <!-- BLOG-POST-LIST:END -->
 
 <!---
 rahulsharmadev-community/rahulsharmadev-community is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
