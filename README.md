@@ -19,6 +19,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [YouTube Buddy](https://github.com/rahulsharmadev-community/YouTube-Buddy)
+- [Melody only-for-music-lover](https://github.com/rahulsharmadev-community/Melody-only-for-music-lover-)
  <!-- BLOG-POST-LIST:END -->
 
 <!---
