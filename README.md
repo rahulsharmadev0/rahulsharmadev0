@@ -18,9 +18,9 @@
 ## ⚡ Latest GitHub Repository
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Buddy](https://github.com/rahulsharmadev-community/YouTube-Buddy)
 - [Melody only-for-music-lover](https://github.com/rahulsharmadev-community/Melody-only-for-music-lover-)
-- [Melody only-for-music-lover](https://github.com/rahulsharmadev-community/Stopwatch-Pro)
+- [YouTube Buddy](https://github.com/rahulsharmadev-community/YouTube-Buddy)
+- [Stopwatch-Pro](https://github.com/rahulsharmadev-community/Stopwatch-Pro)
  <!-- BLOG-POST-LIST:END -->
 
 <!---
