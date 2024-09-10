@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iframe Mouse Events</title>
+    <style>
+      /* Centering and full screen */
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+      }
+      /* Ensuring the iframe takes full screen */
+      iframe {
+        width: 900px;
+        height: 100vh;
+        border: none; /* Remove iframe border */
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe
+      id="embedded-doc"
+      src="https://docs.google.com/document/d/e/2PACX-1vQy8xcRYbMlNKUETMWx89PseYFepcebwynoz3mUUhotC-7258_LH8b1rijHJakSU72GYkV9dWuYXklB/pub?embedded=true"
+    ></iframe>
+  </body>
+</html>
