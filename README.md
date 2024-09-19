@@ -32,7 +32,7 @@
 ## ⚡ Latest GitHub Repository
 
 <!-- BLOG-POST-LIST:START -->
-- [Jars](https://github.com/rahulsharmadev-community/jars), [gclass](https://github.com/rahulsharmadev-community/gclass), [Sorting Visualizer](https://github.com/rahulsharmadev-community/Sorting-Visualizer)
+- [eMart](https://github.com/rahulsharmadev-community/emart), [Jars](https://github.com/rahulsharmadev-community/jars), [gclass](https://github.com/rahulsharmadev-community/gclass), [Sorting Visualizer](https://github.com/rahulsharmadev-community/Sorting-Visualizer)
 - [Cached Image](https://github.com/rahulsharmadev-community/cached_image), [Data-Structures-and-Algorithms](https://github.com/rahulsharmadev-community/Data-Structures-and-Algorithms)
 - [Melody only-for-music-lover](https://github.com/rahulsharmadev-community/Melody-only-for-music-lover-)
 - [YouTube Buddy](https://github.com/rahulsharmadev-community/YouTube-Buddy), [Stopwatch-Pro](https://github.com/rahulsharmadev-community/Stopwatch-Pro)
