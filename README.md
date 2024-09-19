@@ -32,9 +32,9 @@
 ## ⚡ Latest GitHub Repository
 
 <!-- BLOG-POST-LIST:START -->
-- [eMart](https://github.com/rahulsharmadev-community/emart), [Jars](https://github.com/rahulsharmadev-community/jars), [gclass](https://github.com/rahulsharmadev-community/gclass), [Sorting Visualizer](https://github.com/rahulsharmadev-community/Sorting-Visualizer)
-- [Cached Image](https://github.com/rahulsharmadev-community/cached_image), [Data-Structures-and-Algorithms](https://github.com/rahulsharmadev-community/Data-Structures-and-Algorithms)
-- [Melody only-for-music-lover](https://github.com/rahulsharmadev-community/Melody-only-for-music-lover-)
+- [eMart](https://github.com/rahulsharmadev-community/emart), [Jars](https://github.com/rahulsharmadev-community/jars), [reConnect](https://github.com/rahulsharmadev-community/reconnect), [gclass](https://github.com/rahulsharmadev-community/gclass),
+- [Cached Image](https://github.com/rahulsharmadev-community/cached_image), [Melody only-for-music-lover](https://github.com/rahulsharmadev-community/Melody-only-for-music-lover-)
+- [Sorting Visualizer](https://github.com/rahulsharmadev-community/Sorting-Visualizer), [Data-Structures-and-Algorithms](https://github.com/rahulsharmadev-community/Data-Structures-and-Algorithms)
 - [YouTube Buddy](https://github.com/rahulsharmadev-community/YouTube-Buddy), [Stopwatch-Pro](https://github.com/rahulsharmadev-community/Stopwatch-Pro)
  <!-- BLOG-POST-LIST:END -->
 
