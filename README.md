@@ -27,7 +27,7 @@
  <a href="https://kotlinlang.org/"> <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<p aligh="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharmadev-community&show_icons=true&locale=en&layout=compact" alt="rahulsharmadev-community"></p>
+<p aligh="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsharmadev0&show_icons=true&locale=en&layout=compact" alt="rahulsharmadev0"></p>
 
 ## ⚡ Latest GitHub Repository
 
