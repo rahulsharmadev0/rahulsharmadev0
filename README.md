@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Flutter Workframe.
 
-- 🌱 I’m currently learning **Kotlin, SwiftUI**
+- 🌱 I’m currently learning **PostgreSQL, Spring Boot**
 
 - 💬 Ask me about Flutter or any tech-related stuff.
 
